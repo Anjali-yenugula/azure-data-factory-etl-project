@@ -1,0 +1,9 @@
+{
+	"name": "healthcare-reporting-adF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14e96b1c-0cb7-424d-ae6e-8bfdedebe72b",
+		"tenantId": "10132266-83ee-4bcb-9c20-22a4514a5096"
+	}
+}

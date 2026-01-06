@@ -1,0 +1,13 @@
+{
+	"name": "ls_http_healthcare_reporting",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Anjali-yenugula/Azure_dataEngineer/main/data/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
